@@ -53,6 +53,7 @@ main {
 .order-card__container {
   text-align: center;
   padding: 2.5rem;
+  padding-bottom: 1rem;
 }
 
 .order-card__container__plan-card {
